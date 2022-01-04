@@ -53,7 +53,6 @@ Learnt how to use CSS Grids, and how to make it responsive for different screens
 
 Learn CSS Grids without using media queries
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
