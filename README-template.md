@@ -32,8 +32,8 @@ Mobile: ![](./images/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nehanandi09/testimonials-grid-section](https://github.com/nehanandi09/testimonials-grid-section)
+- Live Site URL: [https://nehanandi09.github.io/testimonials-grid-section/](https://nehanandi09.github.io/testimonials-grid-section/)
 
 ## My process
 
